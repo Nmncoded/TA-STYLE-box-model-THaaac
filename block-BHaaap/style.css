@@ -1,0 +1,36 @@
+.image  {
+  border-radius: 15px 15px;
+  width: 150px;
+  height: 150px;
+}
+.circle {
+  border-radius: 40px 40px;
+  display: inline-block;
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+  padding: 10px 10px 10px 10px;
+}
+.h1 {
+  background-color: #D18C1D;
+  border: 1px solid red;
+  padding: 10px 10px;
+  display: inline;
+  margin: 10px 10px 10px 10px;
+}
+.article {
+  background-color: #D1D631;
+  height: 400px;
+  width: 600px;
+  border: dotted 2px black;
+  margin: 20px 10px;
+  padding: 10px 10px;
+}
+.links  {
+  background-color: #A1A1A1;
+  line-height: 50px;
+  text-align: center;
+  margin: 20px 20px;
+  border: dashed 3px blue;
+}
