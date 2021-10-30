@@ -1,0 +1,37 @@
+.box1 {
+    background-color: brown;
+    height: 150px;
+    width: 150px;
+    overflow: visible;
+    border: dotted 2px black;
+    margin: 20px 10px;
+    padding: 10px 10px;
+}
+
+.box2 {
+    background-color: brown;
+    height: 150px;
+    width: 150px;
+    overflow: visible;
+    border: dashed 4px black;
+    margin: 20px 10px;
+    padding: 10px 10px;
+}
+.box3 {
+        background-color: brown;
+        height: 150px;
+        width: 150px;
+        overflow: visible;
+        border: double 2px black;
+        margin: 20px 10px;
+        padding: 10px 10px;
+}
+.box4 {
+    background-color: brown;
+    height: 150px;
+    width: 150px;
+    overflow: visible;
+    border: dotted 2px black;
+    margin: 20px 10px;
+    padding: 10px 10px;
+}
