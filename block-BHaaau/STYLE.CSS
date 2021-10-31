@@ -1,0 +1,66 @@
+.h1 {
+    width: 700px;
+    text-align: center;
+    font-size: 60px;
+    padding: 20px;
+    border-bottom: 1px dashed gray;
+    margin-left: 350px;
+}
+.center {
+    text-align: center;
+}
+.header {
+    font-size: 20px;
+    padding: 5px;
+}
+p  {
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 7px solid aqua;
+    outline: 3px solid black;
+}
+.para-box {
+    background-color: blue;
+    padding: 20px;
+    display: inline-block;
+    margin: 10px;
+}
+.boxgrey  {
+    width: 150px;
+    height: 100px;
+    background-color:grey;
+    display: inline-block;
+    margin: 10px;
+}
+.outline1    {
+    margin-left: 485px;
+    margin-right: 485px;
+    margin-bottom: 50px;
+    outline: 3px solid grey;
+}
+
+.outline2    {
+    text-align: left;
+    margin-left: 485px;
+    margin-right: 485px;
+    margin-bottom: 50px;
+    outline: 3px solid grey;
+}
+.outline3    {
+    margin-left: 485px;
+    margin-right: 485px;
+    margin-bottom: 50px;
+    outline: 3px solid grey;
+}
+.boxgrey1  {
+    width: 150px;
+    height: 100px;
+    background-color:grey;
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid black;
+}
+.normal {
+    text-align: left;
+}
